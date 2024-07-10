@@ -1,8 +1,6 @@
 # Performance Prediction Model
 The Performance Prediction Model leverages machine learning to forecast future employee performance based on historical data, enhancing talent management and decision-making in HR. This model aims to improve accuracy in performance evaluations, reduce subjective biases, and provide personalized improvement suggestions.
 
-Check out my project through this live link - https://huggingface.co/spaces/TpsNandhini/PerformancePrediction
-
 ## Skills Takeaway From This Project
 - Data Wrangling
 - Exploratory Data Analysis (EDA)
